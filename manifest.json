@@ -1,0 +1,19 @@
+{
+  "name": "play-speed",
+  "description": "视频播放速度控制器",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting","notifications"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/get_started16.png"
+    }
+  },
+  "icons": {
+    "16": "/images/get_started16.png"
+  }
+}
