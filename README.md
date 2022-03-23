@@ -1,1 +1,1 @@
-##  Chrome 视频播放速度控制器 Extension
+##  Chrome Extension 视频播放速度控制器 
